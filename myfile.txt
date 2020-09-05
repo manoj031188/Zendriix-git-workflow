@@ -1,1 +1,2 @@
-welcome to myfile in master branch
+welcome to myfile in master brancht 
+feature1 added
